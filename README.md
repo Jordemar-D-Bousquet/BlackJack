@@ -10,7 +10,7 @@
 
 ## Link do site
 
-- [Em Breve]()
+- [Acesse o site clicando aqui](https://jordemar-d-bousquet.github.io/BlackJack/)
 
 ## Autor
 
