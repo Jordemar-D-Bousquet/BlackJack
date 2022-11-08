@@ -1,0 +1,13 @@
+body{
+    background-image: url(img/background.jpg);
+    background-size: cover;
+}
+
+.title{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding-top: 130px;
+
+}
